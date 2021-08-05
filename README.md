@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.b9.com.br%2F57816%2Fstarbucks-faz-serie-de-gifs-animados-para-promover-seus-frappuccinos%2F&psig=AOvVaw0P_KwH1ljQH4Yz3vkjRIaA&ust=1628281233609000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi68bXamvICFQAAAAAdAAAAABAO.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif">
 </div>
   
 
