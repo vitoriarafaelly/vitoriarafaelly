@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando com desenvolvimento backend e frontend
-- 🌱 Atualmente estou aprendendo Java, Spring boot, JavaScript e React
+- 🌱 Atualmente estou aprendendo Java, Spring boot, TypeScript e React
 - 📫 contato: vitoria.rafaelly98@gmail.com
 - 😄 Pronomes: ela/dela
 
